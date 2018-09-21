@@ -52,3 +52,4 @@ Deploy the .war to any Servlet 2.5 >, such as Tomcat. By default, the app will r
 ## IDE Support
 
 If you would like to build and run from a Maven/Java Dynamic Web-project-capable IDE, such as Eclipse/SpringSource Tool Suite, you may simply import "as a Maven Project" into your IDE and deploy the project to your IDE's embedded servlet container.
+
